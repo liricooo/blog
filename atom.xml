@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-31T09:09:07.000Z</updated>
+  <updated>2018-01-01T14:58:22.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>li</title>
-    <link href="http://yoursite.com/2017/12/31/li/"/>
-    <id>http://yoursite.com/2017/12/31/li/</id>
-    <published>2017-12-31T09:08:58.000Z</published>
-    <updated>2017-12-31T09:09:07.000Z</updated>
+    <title>new-paper</title>
+    <link href="http://yoursite.com/2018/01/01/new-paper/"/>
+    <id>http://yoursite.com/2018/01/01/new-paper/</id>
+    <published>2018-01-01T14:41:58.000Z</published>
+    <updated>2018-01-01T14:58:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017.04.05更新<br>汉化了bodymovin.zxp插件(v4.6.2)， 下载地址点我</p><p>说明：</p><p>1.安装方法见正文，建议用方式1。自签名打包，如介意请使用英文原版。<br>2.自带预览失效，似乎是作者未在github更新（可能更新在adobe在线商店版？），如有更新我将跟进。请通过导出html播放的方式预览。<br>3.修正了原版导出带透明通道png图片资源会有黑边问题。</p><p>在macOS 10.11.6 用 AE CC 2014.2版本测试通过，其他版本不保证ok哦</p><a id="more"></a>]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;2017.04.05更新&lt;br&gt;汉化了bodymovin.zxp插件(v4.6.2)， 下载地址点我&lt;/p&gt;
+&lt;p&gt;说明：&lt;/p&gt;
+&lt;p&gt;1.安装方法见正文，建议用方式1。自签名打包，如介意请使用英文原版。&lt;br&gt;2.自带预览失效，似乎是作者未在github更新（可能更新在adobe在线商店版？），如有更新我将跟进。请通过导出html播放的方式预览。&lt;br&gt;3.修正了原版导出带透明通道png图片资源会有黑边问题。&lt;/p&gt;
+&lt;p&gt;在macOS 10.11.6 用 AE CC 2014.2版本测试通过，其他版本不保证ok哦&lt;/p&gt;
     
     </summary>
     
@@ -31,20 +38,44 @@
   </entry>
   
   <entry>
-    <title>hello worlds</title>
-    <link href="http://yoursite.com/2017/12/31/post/"/>
-    <id>http://yoursite.com/2017/12/31/post/</id>
-    <published>2017-12-31T08:27:00.000Z</published>
-    <updated>2017-12-31T09:01:19.000Z</updated>
+    <title>hello</title>
+    <link href="http://yoursite.com/2018/01/01/hello/"/>
+    <id>http://yoursite.com/2018/01/01/hello/</id>
+    <published>2018-01-01T05:22:51.000Z</published>
+    <updated>2018-01-01T13:47:45.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h2><p><em>xx</em></p>]]></content>
+    <content type="html"><![CDATA[<p>2017.04.05更新<br>汉化了bodymovin.zxp插件(v4.6.2)， 下载地址点我</p><p>说明：</p><p>1.安装方法见正文，建议用方式1。自签名打包，如介意请使用英文原版。<br>2.自带预览失效，似乎是作者未在github更新（可能更新在adobe在线商店版？），如有更新我将跟进。请通过导出html播放的方式预览。<br>3.修正了原版导出带透明通道png图片资源会有黑边问题。</p><p>在macOS 10.11.6 用 AE CC 2014.2版本测试通过，其他版本不保证ok哦</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;hello-world&quot;&gt;&lt;a href=&quot;#hello-world&quot; class=&quot;headerlink&quot; title=&quot;hello world&quot;&gt;&lt;/a&gt;hello world&lt;/h2&gt;&lt;p&gt;&lt;em&gt;xx&lt;/em&gt;&lt;/p&gt;
-
+        &lt;p&gt;2017.04.05更新&lt;br&gt;汉化了bodymovin.zxp插件(v4.6.2)， 下载地址点我&lt;/p&gt;
+&lt;p&gt;说明：&lt;/p&gt;
+&lt;p&gt;1.安装方法见正文，建议用方式1。自签名打包，如介意请使用英文原版。&lt;br&gt;2.自带预览失效，似乎是作者未在github更新（可能更新在
+      
+    
+    </summary>
+    
+    
+      <category term="ym" scheme="http://yoursite.com/tags/ym/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>li</title>
+    <link href="http://yoursite.com/2017/12/31/li/"/>
+    <id>http://yoursite.com/2017/12/31/li/</id>
+    <published>2017-12-31T09:08:58.000Z</published>
+    <updated>2018-01-01T14:25:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文是阅读《HTML5 与 CSS3 设计模式》时摘录的一篇读书笔记，内容主要是使用 table 标签设计列布局，这里讲的布局适用于表格式数据（tabular data），不建议用于页面布局，使用表格设计页面布局会降低内容的可访问性。在讲布局之前，先说两条 table 元素的特殊特性：</p><p>一是，表格单元格 td / th 的 height 属性只能指定单元格的最小高度，当内容过长超过容器容量时，容器高度就会自动增大。解决这个问题有两种方法：为单元格内的内容设置一层容器，比如 div，并为容器设置 height: 固定高度值; 和 overflow: hidden 样式；为单元格内容设置 white-space: nowrap，杜绝自动换行行为，继而在水平方向隐藏溢出。</p><p>二是，单元格上设置 visibility: hidden 只会隐藏单元格内容，单元格的边框样式仍然存在。</p><p>使用表格布局主要有四种方案，而这四种方案由 table-layout 和 width 两个 CSS 样式决定。table-layout 支持两个值：auto 和 fixed，auto 自动布局的表格会根据内容宽度、单元格宽度设置列宽，而 fixed 固定布局会忽略内容宽度，仅仅根据第一行单元格的宽度来设置列宽。width 支持三种值：auto、固定值和百分比。四种布局如下（）：</p><p>表格 table-layout: auto 和单元格 width: auto，收缩适应型，表格会自动缩小到所有列宽之和，且不会超过容器宽度<br>表格 table-layout: auto 和单元格 width: 固定宽度，设定尺寸型，表格会根据宽度值按比例分配列宽<br>表格 table-layout: auto 和单元格 width: 100%，拉伸型，表格宽度会拉伸为父容器的宽度，并按比例分配列宽<br>表格 table-layout: fixed 和单元格 width: 固定宽度，固定尺寸型，表格会忽略内容高度而设置列宽</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本文是阅读《HTML5 与 CSS3 设计模式》时摘录的一篇读书笔记，内容主要是使用 table 标签设计列布局，这里讲的布局适用于表格式数据（tabular data），不建议用于页面布局，使用表格设计页面布局会降低内容的可访问性。在讲布局之前，先说两条 table 元素
       
     
     </summary>

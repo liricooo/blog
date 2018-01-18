@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-16T16:07:24.102Z</updated>
+  <updated>2018-01-18T11:46:08.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2018/01/16/userstorymapping/"/>
     <id>http://yoursite.com/2018/01/16/userstorymapping/</id>
     <published>2018-01-16T15:48:29.000Z</published>
-    <updated>2018-01-16T16:07:24.102Z</updated>
+    <updated>2018-01-18T11:46:08.000Z</updated>
     
-    <content type="html"><![CDATA[<img src="/2018/01/16/userstorymapping/0003.png" title="This is an image"><hr><h2 id="达成共识"><a href="#达成共识" class="headerlink" title="达成共识"></a>达成共识</h2><p>使用用户故事的目的是达成共识<br>「文档」只是生产者在思考后得出的总结，避免造成“我以为的其实不是你以为的”。</p><ul><li>用户故事不是另一种写需求的方式，讲述用户故事，在过程中用胡文字和图片相结合的方式辅助讨论，这是一种建立共识的机制。</li><li>用户故事也不是需求，用户故事是关于问题解决方案的讨论，解决公司的问题，解决客户的问题，解决用户的问题，目的是我们对要开发的功能达成共识。</li><li>你的工作不是更快开发更多功能，而是使那些投入精力开发的功能在成果和影响上可以最大化。</li></ul><a id="more"></a> <h2 id="1-产品全景图"><a href="#1-产品全景图" class="headerlink" title="1.产品全景图"></a>1.产品全景图</h2><p>通过讲故事的方式，大家获得对产品愿景的一致理解，然后共同创建更好的产品解决方案。<br>用户故事地图是一个模式，团队对整个产品或整个特性达成共识，将大的用户故事进一步拆分。<br>“思路宽广，细节有度”聚焦于故事的整体，不要过早陷入细节。<br>最关键的部分是产品构思框架，更多的北京信息就摆放在地图周边（产品目标、客户信息、用户信息）</p><h2 id="在敏捷开发中…"><a href="#在敏捷开发中…" class="headerlink" title="在敏捷开发中…"></a>在敏捷开发中…</h2><p>在排优先级的时候，不会使用“必须做”“应该做”“可能做”这种<strong>MoSCoW</strong>的方式，只区分做与不做。优先级划分的原则很简单，“没有它就无法工作”就做，其他先不做。</p><h2 id="2-计划，为了更少的开发"><a href="#2-计划，为了更少的开发" class="headerlink" title="2.计划，为了更少的开发"></a>2.计划，为了更少的开发</h2><blockquote><p>想要开发的功能，总会超出你能投入开发的资源。</p></blockquote><p><strong>MVP</strong></p><ol><li>最小可行性方案是指<strong>可以产生预期成果</strong>的最小发布方案</li><li>最小可行性产品是<strong>为验证假设</strong>而做的最小规模的实验</li></ol><h2 id="3-计划，为了更快的学习"><a href="#3-计划，为了更快的学习" class="headerlink" title="3.计划，为了更快的学习"></a>3.计划，为了更快的学习</h2><img src="/2018/01/16/userstorymapping/0001.jpeg" title="This is an image"><p>基于验证的学习，理解目标用户眼中真正的可行性产品。</p><hr><p>故事的真正价值并不是来之于卡片上的内容，而是我们在讲故事过程中所能学到的东西。</p><h4 id="模版格式并不是用户故事的唯一要素"><a href="#模版格式并不是用户故事的唯一要素" class="headerlink" title="模版格式并不是用户故事的唯一要素"></a>模版格式并不是用户故事的唯一要素</h4><hr><p>用户体验地图-思维导图<br><img src="/2018/01/16/userstorymapping/0002.png" title="This is an image"></p>]]></content>
+    <content type="html"><![CDATA[<img src="/2018/01/16/userstorymapping/0003.png" title="This is an image"><hr><h1 id="达成共识"><a href="#达成共识" class="headerlink" title="达成共识"></a>达成共识</h1><p>使用用户故事的目的是达成共识<br>「文档」只是生产者在思考后得出的总结，避免造成“我以为的其实不是你以为的”。</p><ul><li>用户故事不是另一种写需求的方式，讲述用户故事，在过程中用胡文字和图片相结合的方式辅助讨论，这是一种建立共识的机制。</li><li>用户故事也不是需求，用户故事是关于问题解决方案的讨论，解决公司的问题，解决客户的问题，解决用户的问题，目的是我们对要开发的功能达成共识。</li><li>你的工作不是更快开发更多功能，而是使那些投入精力开发的功能在成果和影响上可以最大化。</li></ul><a id="more"></a> <h3 id="1-产品全景图"><a href="#1-产品全景图" class="headerlink" title="1.产品全景图"></a>1.产品全景图</h3><p>通过讲故事的方式，大家获得对产品愿景的一致理解，然后共同创建更好的产品解决方案。<br>用户故事地图是一个模式，团队对整个产品或整个特性达成共识，将大的用户故事进一步拆分。<br>“思路宽广，细节有度”聚焦于故事的整体，不要过早陷入细节。<br>最关键的部分是产品构思框架，更多的北京信息就摆放在地图周边（产品目标、客户信息、用户信息）</p><h3 id="在敏捷开发中…"><a href="#在敏捷开发中…" class="headerlink" title="在敏捷开发中…"></a>在敏捷开发中…</h3><p>在排优先级的时候，不会使用“必须做”“应该做”“可能做”这种<strong>MoSCoW</strong>的方式，只区分做与不做。优先级划分的原则很简单，“没有它就无法工作”就做，其他先不做。</p><h3 id="2-计划，为了更少的开发"><a href="#2-计划，为了更少的开发" class="headerlink" title="2.计划，为了更少的开发"></a>2.计划，为了更少的开发</h3><blockquote><p>想要开发的功能，总会超出你能投入开发的资源。</p></blockquote><p><strong>MVP</strong></p><ol><li>最小可行性方案是指<strong>可以产生预期成果</strong>的最小发布方案</li><li>最小可行性产品是<strong>为验证假设</strong>而做的最小规模的实验</li></ol><h3 id="3-计划，为了更快的学习"><a href="#3-计划，为了更快的学习" class="headerlink" title="3.计划，为了更快的学习"></a>3.计划，为了更快的学习</h3><img src="/2018/01/16/userstorymapping/0001.jpeg" title="This is an image"><p>基于验证的学习，理解目标用户眼中真正的可行性产品。</p><hr><p>故事的真正价值并不是来之于卡片上的内容，而是我们在讲故事过程中所能学到的东西。</p><h4 id="模版格式并不是用户故事的唯一要素"><a href="#模版格式并不是用户故事的唯一要素" class="headerlink" title="模版格式并不是用户故事的唯一要素"></a>模版格式并不是用户故事的唯一要素</h4><hr><p>用户体验地图-思维导图<br><img src="/2018/01/16/userstorymapping/0002.png" title="This is an image"></p>]]></content>
     
     <summary type="html">
     
       &lt;img src=&quot;/2018/01/16/userstorymapping/0003.png&quot; title=&quot;This is an image&quot;&gt;
 &lt;hr&gt;
-&lt;h2 id=&quot;达成共识&quot;&gt;&lt;a href=&quot;#达成共识&quot; class=&quot;headerlink&quot; title=&quot;达成共识&quot;&gt;&lt;/a&gt;达成共识&lt;/h2&gt;&lt;p&gt;使用用户故事的目的是达成共识&lt;br&gt;「文档」只是生产者在思考后得出的总结，避免造成“我以为的其实不是你以为的”。&lt;/p&gt;
+&lt;h1 id=&quot;达成共识&quot;&gt;&lt;a href=&quot;#达成共识&quot; class=&quot;headerlink&quot; title=&quot;达成共识&quot;&gt;&lt;/a&gt;达成共识&lt;/h1&gt;&lt;p&gt;使用用户故事的目的是达成共识&lt;br&gt;「文档」只是生产者在思考后得出的总结，避免造成“我以为的其实不是你以为的”。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;用户故事不是另一种写需求的方式，讲述用户故事，在过程中用胡文字和图片相结合的方式辅助讨论，这是一种建立共识的机制。&lt;/li&gt;
 &lt;li&gt;用户故事也不是需求，用户故事是关于问题解决方案的讨论，解决公司的问题，解决客户的问题，解决用户的问题，目的是我们对要开发的功能达成共识。&lt;/li&gt;

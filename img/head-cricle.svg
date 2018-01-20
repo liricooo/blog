@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="90px" viewBox="0 0 220 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>head-cricle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-754.000000, 0.000000)">
+        <g id="Group" transform="translate(754.000000, -80.000000)">
+            <rect id="Rectangle-3" fill-opacity="0" fill="#D8D8D8" x="0" y="80" width="220" height="90"></rect>
+            <path d="M110,160 C65.81722,160 30,124.18278 30,80 C30,35.81722 65.81722,0 110,0 C154.18278,0 190,35.81722 190,80 C190,124.18278 154.18278,160 110,160 Z M110,130 C137.614237,130 160,107.614237 160,80 C160,52.3857625 137.614237,30 110,30 C82.3857625,30 60,52.3857625 60,80 C60,107.614237 82.3857625,130 110,130 Z" id="Combined-Shape" fill="#F5F5F5"></path>
+        </g>
+    </g>
+</svg>

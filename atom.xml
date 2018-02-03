@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-28T14:43:58.478Z</updated>
+  <updated>2018-02-03T11:24:47.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重读尼尔森十大交互设计原则</title>
+    <link href="http://yoursite.com/2018/02/03/Nielsen10Usability/"/>
+    <id>http://yoursite.com/2018/02/03/Nielsen10Usability/</id>
+    <published>2018-02-03T11:19:45.000Z</published>
+    <updated>2018-02-03T11:24:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是Nielsen和Norman的设计咨询公司，两位大佬算是人机交互史上的泰斗级别人物。<br>先po上原文链接：<a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank" rel="noopener">Nielsen Norman Group</a><br>在译文的时候会引入案例进行分析，接下来是译文+案例：</p><hr><h2 id="原则一：状态可见原则"><a href="#原则一：状态可见原则" class="headerlink" title="原则一：状态可见原则"></a><strong>原则一：状态可见原则</strong></h2><p>Visibility of system status</p><p>系统应该让用户知道发生了什么，在适当的时间内做出适当的反馈。<code>（在恰当的时机给予用户及时的反馈，避免用户迷失或造成情绪紧张）</code><br>举个例子：<br><img src="/2018/02/03/Nielsen10Usability/尼尔森-02.png" title="This is an image"><br>可以看到图1是下来刷新是的一个及时反馈 loading状态（小⭕️在转）；当手松开数据加载完毕后变成了图2的笑脸，然后到图3的最新刷新消息提示，很好的体现了状态可见的原则，用户很明确的知道行为之后每个时间点的状态反馈。</p><h2 id="原则二：环境贴切原则"><a href="#原则二：环境贴切原则" class="headerlink" title="原则二：环境贴切原则"></a><strong>原则二：环境贴切原则</strong></h2><p>Match between system and the real world</p><p>软件系统应该使用用户熟悉的语言、文字、语句，或者其他用户熟悉的概念，而非系统语言。软件中的信息应该尽量贴近真实世界，让信息更自然，逻辑上也更容易被用户理解。<code>（其实就是说人话，降低用户的理解成本，让系统、产品、交互上的设计更加的靠近用户的心智模型，之前流行的拟真风格到后来的扁平化去除的这是繁琐的修饰，保留下来的还是真是存在与真实世界中隐喻的表达，及使用一些约定俗成的语言或图形）</code></p><img src="/2018/02/03/Nielsen10Usability/尼尔森-01.png" title="This is an image"><p>是真的没人能看懂，难道当所有人都是电脑高手吗？？ 大部分的用户看到这种情况根本不知道自己出了什么问题，可以回想起大家看到这张图时的情绪曲线真的直接跌到谷底。<br>还有图标在绘制时候的可视性，易读性都能反映出设计师是否将环境贴切原则考虑进去。</p><h2 id="原则三：撤销重做原则"><a href="#原则三：撤销重做原则" class="headerlink" title="原则三：撤销重做原则"></a><strong>原则三：撤销重做原则</strong></h2><p>User control and freedom</p><p>用户常常会误触到某些功能，我们应该让用户可以更方便的退出。这种情况下，我们应该把“紧急出口”按钮做的明显一点，而且不要在退出时弹出额外的对话框。支持撤消和重做。</p><p><code>（例如微信发消息时在一段时间内可以撤回，在iPhone里删除照片之后可以在30天内从删除照片的文件夹中找回。）</code></p><h2 id="原则四：一致性原则"><a href="#原则四：一致性原则" class="headerlink" title="原则四：一致性原则"></a><strong>原则四：一致性原则</strong></h2><p>Consistency and standards</p><p>对于用户来说，同样的文字、状态、按钮，都应该有相同的意思，遵从通用的平台惯例；也就是，同一用语、功能、操作保持一致。软件产品的一致性包括以下五个方面：</p><ul><li><strong>信息结构的一致性：</strong> 软件内信息组织的结构一致性<br><strong>案例</strong><br>Apple Music 上显示在资料库和为你推荐上专辑的样式信息结构上的一致性，减少了用户在阅读上的信息获取成本。<img src="/2018/02/03/Nielsen10Usability/尼尔森-03.png" title="This is an image"></li><li><strong>颜色的一致性：</strong> 产品使用的主要色调（品牌色）应该是对内统一的<br><strong>案例</strong><br>还是Apple Music 里所有可被点击、选中、按钮的颜色都是以红色调为主，与普通的信息做了很好的区分，让用户在交互的时候更容易的感知到哪些是可以被操作的。<img src="/2018/02/03/Nielsen10Usability/尼尔森-04.png" title="This is an image"></li><li><strong>操作的一致性：</strong> 能让产品更新换代时仍然让用户保持对原产品的认知，减小用户的学习成本；<br><strong>拿iphone来举例</strong> 在iphone 3GS 到现在的iphone8 都遵循了home健的点击是回到桌面，以及双击是打开后台的操作，这样高频的交互操作如果被修改，会打破用户已有的心智模型，需要很高的学习成本才能转换。iphone 是因为取消了home健 如果home健一直存在那么这种潜意识下的惯性是很难在一时间被改变。</li><li><strong>反馈的一致性：</strong> 用户在与产品产生交互的时候，操作反馈应该保持一致性；</li><li><strong>文字的一致性：</strong> 产品中文字的大小、样式、颜色都应该保持一致性。</li></ul><h2 id="原则五：防错原则"><a href="#原则五：防错原则" class="headerlink" title="原则五：防错原则"></a><strong>原则五：防错原则</strong></h2><p>Error prevention</p><p>比一个优秀错误提醒弹窗更好的设计方式，是在这个错误发生之前就避免它。可以帮助用户排除一些容易出错的情况，或在用户提交之前给他一个确认的选项。在此，特别要注意在用户操作具有毁灭性效果的功能时要有提示，防止用户犯不可挽回的错误。</p><p><strong>案例</strong><br>典型的例子就是登录注册页的注册按钮在用户没有填写完整信息之前是致灰不可点击的，<br>在ins或者snapseed里修图的时候要再打开另一张照片，就是提示是否需要打开将会丢失目前的操作，<code>（这就是用户在做出一些不可逆的毁灭性操作的时候，用dialog（Alerts）最强的提示弹窗给予提醒。）</code></p><img src="/2018/02/03/Nielsen10Usability/尼尔森-05.png" title="This is an image"><h2 id="原则六：易取原则"><a href="#原则六：易取原则" class="headerlink" title="原则六：易取原则"></a><strong>原则六：易取原则</strong></h2><p>Recognition rather than recall（识别好过回忆）</p><p>通过把组件、按钮及选项可见化，来降低用户的记忆负荷。用户不需要记住各个对话框中的信息。软件的使用指南应该是可见的，且在合适的时候可以再次查看。</p><h2 id="原则七：灵活高效原则"><a href="#原则七：灵活高效原则" class="headerlink" title="原则七：灵活高效原则"></a><strong>原则七：灵活高效原则</strong></h2><p>Flexibility and efficiency of use</p><p>汽车油门—新手用户常常看不见，而且对于高手来说可以通过它快速与汽车互动。这样的系统可以同时满足有经验和无经验的用户。允许用户自定义常用功能。<code>（产品设计的时候把新老用户的需求都考虑进去，既满足新用户的正常需求也带给老用户更高的惊喜感。）</code></p><p><strong>案例</strong><br>1.网易云音乐的首页支持自定义模块顺序<br>2.微信的发送表情功能里，有一个时间的按钮显示了你常用的一些表情</p><img src="/2018/02/03/Nielsen10Usability/尼尔森-06.png" title="This is an image"><h2 id="原则八：优美和简约原则"><a href="#原则八：优美和简约原则" class="headerlink" title="原则八：优美和简约原则"></a><strong>原则八：优美和简约原则</strong></h2><p>Aesthetic and minimalist design</p><p>对话中的内容应该去除不相关的信息或几乎不需要的信息。任何不相关的信息都会使得原本的信息被干扰。</p><p><code>（做产品是克制的，应该去考虑什么东西是用户真正需要的，很多时候做出来了一个东西，其实背后应该去思考他们在做这个决定的时候放弃了什么。）</code></p><h2 id="原则九：容错原则"><a href="#原则九：容错原则" class="headerlink" title="原则九：容错原则"></a><strong>原则九：容错原则</strong></h2><p>Help users recognize, diagnose, and recover from errors</p><p>错误信息应该使用简洁的文字（说人话、不要用代码），指出错误是什么，并给出解决方案。<br>这个不论在web还是app 登录注册上都很常见的，注册时提示你邮箱已被注册并且给出一些建议性的方案。</p><h2 id="原则十：人性化帮助原则"><a href="#原则十：人性化帮助原则" class="headerlink" title="原则十：人性化帮助原则"></a><strong>原则十：人性化帮助原则</strong></h2><p>Help and documentation</p><p>系统不使用帮助文档是最好的，但我们也应该提供一份帮助文档。任何帮助信息都应该可以方便地搜索到，以用户的任务为核心，列出相应的步骤，但文字不要太多。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是Nielsen和Norman的设计咨询公司，两位大佬算是人机交互史上的泰斗级别人物。&lt;br&gt;先po上原文链接：&lt;a href=&quot;https://www.nngroup.com/articles/ten-usability-heuristics/&quot; target=&quot;_bl
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>读书笔记-无界面交互</title>

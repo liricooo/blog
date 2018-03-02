@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-03T11:24:47.000Z</updated>
+  <updated>2018-03-01T16:07:16.643Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DesignThinking（1）</title>
+    <link href="http://yoursite.com/2018/03/01/20180301DesignThinking/"/>
+    <id>http://yoursite.com/2018/03/01/20180301DesignThinking/</id>
+    <published>2018-03-01T15:42:17.000Z</published>
+    <updated>2018-03-01T16:07:16.643Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="设计思维Design-Thinking"><a href="#设计思维Design-Thinking" class="headerlink" title="设计思维Design Thinking"></a>设计思维Design Thinking</h2><img src="/2018/03/01/20180301DesignThinking/googlesprint.png" title="This is an image"><p>年前看了本书《设计冲刺》Google Design Sprint，然后在网络上检索有有关设计思维的文章做了一些总结：</p><a id="more"></a> <p>先说说设计思维，这是<a href="https://zh.wikipedia.org/wiki/%25E8%25A8%25AD%25E8%25A8%2588%25E6%2580%259D%25E8%2580%2583" target="_blank" rel="noopener">Wiki</a>上对「设计思维」词条的解读</p><blockquote><p>“设计思考是以人为本的设计精神与方法，考虑人的需求、行为，也考量科技或商业的可行性。”</p></blockquote><p>作为一种思维方式，Design Thinking不是凭空而来的，而是从传统的设计方法论里面演变出来的。<br>一般最简单的产品设计思路主要有四步：</p><ol><li><p>Need-finding（寻找需求）</p></li><li><p>Brainstorming（头难风暴）</p></li><li><p>Prototyping（原型制作）</p></li><li><p>Testing（用户测试）</p></li></ol><p>而Design Thinking强调设身处地地去体验客户需求，所以它就多了一步，并重新定义了传统步骤：</p><ol><li><p>Empathize（同理心）</p></li><li><p>Define（定义问题）</p></li><li><p>Ideate(设想）</p></li><li><p>Prototype（原型制作）</p></li><li><p>Test（测试并优化解决方案）</p></li></ol><img src="/2018/03/01/20180301DesignThinking/designthinking01.jpg" title="This is an image"><p><strong>Design Thinking=传统设计思维方式+视觉化思考+社会化思考</strong></p><h2 id="设计思考模型："><a href="#设计思考模型：" class="headerlink" title="设计思考模型："></a>设计思考模型：</h2><p>不论是传统的设计思维还Design Thinking、Google Sprint、英国设计协会双钻设计模型，都是基于以人为本的理念。</p><p>双钻模型来源于IDEO的以人为本设计思想和d.school的设计流程。</p><p>主要分为四个时期：</p><ul><li>发现期：对问题的探索和调研。</li><li>定义期：对问题的定义和聚焦。</li><li>发展期：对设计的潜在问题进行发散，进行简要的设计构思。</li><li>交付期：对设计方案进行实现。它是将设计产出“可能是”到“应该是”的思考辅助方法。</li></ul><img src="/2018/03/01/20180301DesignThinking/szmx.jpg" title="This is an image"><p>核心是对人性的思考，人性需求的挖掘</p><blockquote><p>设计始于对人性需求的理解。</p></blockquote><p>各种的设计流程不是刻板的规矩，而是一套能帮助你思考的工具，要学会灵活运用。刚开始先套用流程来进行思考，在实践的过程中，根据自身项目、团队情况对流程进行优化和改进，最终形成一套适用团队本身的工作方法论。</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;设计思维Design-Thinking&quot;&gt;&lt;a href=&quot;#设计思维Design-Thinking&quot; class=&quot;headerlink&quot; title=&quot;设计思维Design Thinking&quot;&gt;&lt;/a&gt;设计思维Design Thinking&lt;/h2&gt;&lt;img src=&quot;/2018/03/01/20180301DesignThinking/googlesprint.png&quot; title=&quot;This is an image&quot;&gt;
+&lt;p&gt;年前看了本书《设计冲刺》Google Design Sprint，然后在网络上检索有有关设计思维的文章做了一些总结：&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>重读尼尔森十大交互设计原则</title>
@@ -42,7 +61,7 @@
     <link href="http://yoursite.com/2018/01/28/NoInterface/"/>
     <id>http://yoursite.com/2018/01/28/NoInterface/</id>
     <published>2018-01-28T14:28:12.000Z</published>
-    <updated>2018-01-28T14:43:58.000Z</updated>
+    <updated>2018-01-28T14:43:58.478Z</updated>
     
     <content type="html"><![CDATA[<img src="/2018/01/28/NoInterface/ArtboardCopy.png" title="This is an image"><p>分享前段时间看完的一本书<br><a id="more"></a> </p><blockquote><p>“没有界面就是最好的界面”真正的力量在于提倡一种新的行动，同时也是一种设计理念。它重点不在于扁平化还是拟物化，也不在于网页应用还是移动应用。它致力于追求无界面解决方案的最佳结果——不会分散用户的注意力或者导致上瘾，而且符合我们的生活方式，同时还悄悄地、优雅地改善我们的生活。我们应该将技术融入生活，而非用技术来将我们的注意力从重要事项上移开。“</p></blockquote><p>这本书彻底的颠覆了我之前的对用户界面设计的理解，利用全新的视角打破被视为安全习惯性的思维方式，从新认识用户界面设计，让设计存在更多的可能性。</p><p>不多说看书～</p><p><img src="nointerface.jpeg" alt="nointerface"></p>]]></content>
     
